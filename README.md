@@ -12,7 +12,7 @@
 - ⚙️ **Infrastructure & Tooling:** Passionate about developer experience — from CI/CD and build optimization to internal tools and platform engineering.
 - 🧠 **Architectural Thinking:** Led the adoption of ADRs (Architectural Decision Records) and helped onboarding engineers in distributed systems thinking and Kubernetes.
 - 🌱 **Continuous Learner:** I enjoy diving into systems internals, DevOps practices, and emerging backend trends.
-- 🗣️ **Public speaking:** Had a talk at an internal conference called "Kubernetes and its friends" which was an introduction into the world of Kubernetes, ArgoCD and Tekton.
+- 🗣️ **Public speaking:** Delivered an internal talk (“Kubernetes and its Friends”) to share knowledge on Kubernetes, ArgoCD, and Tekton
 
 ---
 

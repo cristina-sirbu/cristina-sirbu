@@ -1,6 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Cristina
 
-Hello World!
+🎯 Backend Engineer | 🛠 Developer Productivity Enthusiast | 🚀 Advocate for Engineering Simplicity
+
+<!--Welcome to my GitHub! I’m a software engineer with 9 years of experience building reliable backend systems and infrastructure tools that scale. My recent focus has been on improving developer workflows, optimizing build systems, and making engineering teams faster and happier.
+
+--->
+
+## 🔧 What I Do
+
+- 💡 **Backend Development:** Experienced in Java and Spring Boot, building APIs and services with a focus on performance and maintainability.
+- ⚙️ **Infrastructure & Tooling:** Passionate about developer experience — from CI/CD and build optimization to internal tools and platform engineering.
+- 🧠 **Architectural Thinking:** Led the adoption of ADRs (Architectural Decision Records) and helped onboarding engineers in distributed systems thinking and Kubernetes.
+- 🌱 **Continuous Learner:** I enjoy diving into systems internals, DevOps practices, and emerging backend trends.
+- 🗣️ **Public speaking:** Had a talk at an internal conference called "Kubernetes and its friends" which was an introduction into the world of Kubernetes, ArgoCD and Tekton.
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [`writerplay`](https://github.com/cristina-sirbu/writerplay) | A backend analytics system designed for songwriters to measure the performance of their song catalog. | Java, GCP Services, Spotify API |
+
+---
+
+## ✨ What colleagues say about me
+
+- 📚 **Clarity & Documentation:** Known for thorough and accessible documentation that helps teams move faster.
+- 🤝 **Team Spirit:** Recognized for initiative, mentoring, and clear communication across functions.
+- 🎙 **Knowledge Sharing:** Presented internally on Kubernetes, architectural decisions, and developer productivity topics.
+
+---
+
+## 📬 Let’s Connect
+
+I'm always open to discussing developer tools, backend systems, or productivity ideas. You can reach me via:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristina-junca)
+- ✉️ Email: cristina.junca23@gmail.com
+
+Thanks for stopping by! 🌟
+
 
 <!--
 **cristina-sirbu/cristina-sirbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

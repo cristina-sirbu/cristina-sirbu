@@ -21,6 +21,8 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [`writerplay`](https://github.com/cristina-sirbu/writerplay) | A backend analytics system designed for songwriters to measure the performance of their song catalog. | Java, GCP Services, Spotify API |
+| [`smart-k8s-monitor`](https://github.com/cristina-sirbu/smart-k8s-monitor) | Local AI-enhanced Kubernetes monitoring system that suggests fixes and sends alerts to Discord. | Kubernetes, Prometheus, Alertmanager, Python, Ollama, Discord Webhooks |
+
 
 ---
 

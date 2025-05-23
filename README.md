@@ -27,8 +27,7 @@
 ## ✨ What colleagues say about me
 
 - 📚 **Clarity & Documentation:** Known for thorough and accessible documentation that helps teams move faster.
-- 🤝 **Team Spirit:** Recognized for initiative, mentoring, and clear communication across functions.
-- 🎙 **Knowledge Sharing:** Presented internally on Kubernetes, architectural decisions, and developer productivity topics.
+- 🤝 **Team Spirit:** Recognized for initiative and clear communication across functions.
 
 ---
 

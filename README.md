@@ -23,8 +23,7 @@
 | [`writerplay`](https://github.com/cristina-sirbu/writerplay) | A backend analytics system designed for songwriters to measure the performance of their song catalog. | Java, GCP Services, Spotify API |
 | [`smart-k8s-monitor`](https://github.com/cristina-sirbu/smart-k8s-monitor) | Local AI-enhanced Kubernetes monitoring system that suggests fixes and sends alerts to Discord. | Kubernetes, Prometheus, Alertmanager, Python, Ollama, Discord Webhooks |
 | [RouteSandbox](https://github.com/cristina-sirbu/RouteSandbox) | A developer-centric route optimization engine that compares greedy and constraint-based solvers, with a REST API, metrics, and visual analysis. | Java, Spring Boot, Python, FastAPI, OR-Tools, Docker, GitHub Actions, Jupyter notebook |
-
-
+| [MiniApollo](https://github.com/cristina-sirbu/java-service-starter) |  Spring Boot microservice starter inspired by Spotify's Apollo. Includes logging, metrics, Docker, Helm, and Terraform. | Java, Spring Boot, DevEx, Docker, Helm, Terraform, GitHub Actions, Kubernetes |
 
 ---
 
